@@ -30,7 +30,7 @@ const About = () => {
               ¿Quiénes Somos?
             </h2>
             <p className="text-slate-600 mb-6 text-lg leading-relaxed">
-              Somos una organización especialista en servicios industriales. Desde 2021 brindamos un enlace unificado entre nuestros clientes y colaboradores para llevar a cabo proyectos de ingeniería, construcción, fabricación y mantenimiento integral.
+              Construcción, Operaciones y Proyectos de Colombia S.A.S es una organización especialista en servicios industriales, desde el 2021 brindamos un enlace unificado entre nuestros clientes y colaboradores para llevar a cabo proyectos de ingeniería, construcción, precomisionamiento y comisionamiento en diferentes disciplinas o áreas de la industrias.
             </p>
             
             <div className="space-y-6 mt-8">
@@ -43,7 +43,7 @@ const About = () => {
                 <div>
                   <h3 className="text-xl font-bold text-slate-900 mb-2">Misión</h3>
                   <p className="text-slate-600">
-                    Entregar proyectos seguros, de calidad y en los tiempos establecidos. Fortalecemos vínculos comerciales enfocándonos en el mejoramiento continuo.
+                    Entregar proyectos y servicios seguros, de calidad y en los tiempos establecidos, que nos permitan fortalecer los vínculos comerciales con nuestros clientes, enfocándonos en el mejoramiento continuo y planeación para así crear alianzas estratégicas y ampliar nuestro portafolio de servicios de una manera dinámica para la prestación oportuna de las necesidades del cliente.
                   </p>
                 </div>
               </div>
@@ -57,7 +57,7 @@ const About = () => {
                 <div>
                   <h3 className="text-xl font-bold text-slate-900 mb-2">Visión 2027</h3>
                   <p className="text-slate-600">
-                    Ser líderes en la industria mediante la innovación, priorizando el talento humano y contribuyendo al medio ambiente.
+                    Para el año 2027 Construcción, Operaciones y Proyectos de Colombia S.A.S estará dentro de las empresas líderes en la industria, buscando un mejoramiento continuo e innovación en los procesos para el desarrollo de sus proyectos. Priorizando el talento humano, servicio al cliente y contribución con el medio ambiente. La planeación estratégica será pilar fundamental dentro de la organización apoyados de herramientas tecnológicas que nos permitirán analizar estrategias para el cumplimiento de los requerimientos del cliente.
                   </p>
                 </div>
               </div>

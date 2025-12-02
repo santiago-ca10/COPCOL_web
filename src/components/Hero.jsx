@@ -1,13 +1,13 @@
 import React from 'react';
 import { ArrowRight } from 'lucide-react';
-import heroImg from "../assets/hero.jpeg"; // <-- IMPORTA TU IMAGEN LOCAL
+import heroImg from "../assets/hero.jpeg"; 
 
 const Hero = () => {
   return (
     <section id="home" className="relative h-screen flex items-center justify-center overflow-hidden">
       <div className="absolute inset-0 z-0">
         <img 
-          src={heroImg}  // <-- AQUÍ USA TU IMAGEN
+          src={heroImg}  
           alt="Soldador industrial COPCOL" 
           className="w-full h-full object-cover"
         />
