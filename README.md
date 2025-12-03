@@ -48,44 +48,6 @@ COPCOL_web/
 │── vite.config.js
 │── tailwind.config.js
 
-yaml
-Copiar código
 
----
-
-## ⚙️ Configuración para desarrollo
-
-### 📥 1. Clonar el repositorio
-
-```bash
-git clone https://github.com/santiago-ca10/COPCOL_web.git
-cd COPCOL_web
-📦 2. Instalar dependencias
-bash
-Copiar código
-npm install
-🧪 3. Ejecutar en modo desarrollo
-bash
-Copiar código
-npm run dev
-🚀 Deploy en GitHub Pages
-El proyecto está configurado para desplegarse automáticamente usando:
-
-"homepage" en package.json
-
-"base": "/COPCOL_web/" en vite.config.js
-
-Script de despliegue en package.json:
-
-json
-Copiar código
-"deploy": "gh-pages -d dist"
-🛠 Pasos para publicar
-bash
-Copiar código
-npm run build
-npm run deploy
-🌐 Sitio en producción
-👉 https://santiago-ca10.github.io/COPCOL_web/
 
 [![Ver sitio](https://img.shields.io/badge/🌐%20Visitar%20Sitio-COPCOL-blue)](https://santiago-ca10.github.io/COPCOL_web/)
