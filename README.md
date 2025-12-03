@@ -27,27 +27,5 @@ Sitio web oficial de **Construcción, Operaciones y Proyectos de Colombia (COPCO
 - `gh-pages` npm package
 - Build optimizado con Vite
 
----
-
-## 📁 Estructura del Proyecto
-
-COPCOL_web/
-│── public/
-│── src/
-│ │── componentes/
-│ │ │── Hero.jsx
-│ │ │── Acerca.jsx
-│ │ │── Servicios.jsx
-│ │ │── Galería.jsx
-│ │ │── Contacto.jsx
-│ │ │── Aplicación.jsx
-│ │ │── principal.jsx
-│ │── assets/
-│── index.html
-│── package.json
-│── vite.config.js
-│── tailwind.config.js
-
-
 
 [![Ver sitio](https://img.shields.io/badge/🌐%20Visitar%20Sitio-COPCOL-blue)](https://santiago-ca10.github.io/COPCOL_web/)
