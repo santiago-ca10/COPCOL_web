@@ -1,18 +1,18 @@
-# 🚧 COPCOL – Sitio Web Corporativo  
+# COPCOL – Sitio Web Corporativo  
 Sitio web oficial de **Construcción, Operaciones y Proyectos de Colombia (COPCOL)**, desarrollado en **React + Vite** con diseño moderno, animaciones suaves y despliegue automatizado con **GitHub Pages**.
 
 ---
 
-## 📌 Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
-### 🖥️ **Frontend**
+### **Frontend**
 - **React 18**
 - **Vite 5** (entorno de desarrollo rápido)
 - **Tailwind CSS 3** (estilos utilitarios)
 - **Lucide Icons** (iconografía moderna)
 - **JavaScript (ES Modules)**
 
-### 🎨 **UI / UX**
+###  **UI / UX**
 - Diseño responsivo (Mobile First)
 - Componentes reutilizables
 - Animaciones suaves
@@ -22,7 +22,7 @@ Sitio web oficial de **Construcción, Operaciones y Proyectos de Colombia (COPCO
   - Gris Slate
   - Blanco / Negro
 
-### 🚀 **Deployment**
+###  **Deployment**
 - **GitHub Pages**
 - `gh-pages` npm package
 - Build optimizado con Vite
