@@ -1,7 +1,6 @@
 # COPCOL – Sitio Web Corporativo  
 Sitio web oficial de **Construcción, Operaciones y Proyectos de Colombia (COPCOL)**, desarrollado en **React + Vite** con diseño moderno, animaciones suaves y despliegue automatizado con **GitHub Pages**.
 
----
 
 ## Tecnologías Utilizadas
 
